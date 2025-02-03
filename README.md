@@ -1,3 +1,6 @@
-Made and Tested on Unity 2021.3.43f1, URP 12.1.15
+BattleArchive
+暂定名
 
-preview: https://youtu.be/19H50Ph4Dmw
+Thanks：https://github.com/MozziDog/BlueArchiveShaders
+
+本项目以GPL-v3协议开源
