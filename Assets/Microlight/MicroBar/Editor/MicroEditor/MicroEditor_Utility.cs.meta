@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: b19b60b20ba65c443834b0cde8d20ee8
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 239154
+  packageName: MicroBar - Animated Health Bar Framework
+  packageVersion: 2.5.0
+  assetPath: Assets/Microlight/MicroBar/Editor/MicroEditor/MicroEditor_Utility.cs
+  uploadId: 708876

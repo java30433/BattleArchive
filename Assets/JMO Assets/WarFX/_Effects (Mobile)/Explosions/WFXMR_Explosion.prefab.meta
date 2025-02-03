@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 084c6a87873fd6e4da7978a01aa18b34
+labels:
+- warfx
+- mobile
+- particles
+- explosion
+AssetOrigin:
+  serializedVersion: 1
+  productId: 5669
+  packageName: War FX
+  packageVersion: 1.8.04
+  assetPath: Assets/JMO Assets/WarFX/_Effects (Mobile)/Explosions/WFXMR_Explosion.prefab
+  uploadId: 301034

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f75efcef4bb42054abf94f8e5c701adc
+labels:
+- warfx
+- mobile
+- particles
+- bullet impact
+AssetOrigin:
+  serializedVersion: 1
+  productId: 5669
+  packageName: War FX
+  packageVersion: 1.8.04
+  assetPath: Assets/JMO Assets/WarFX/_Effects (Mobile)/Bullet Impacts/WFXMR_BImpact
+    SoftBody.prefab
+  uploadId: 301034

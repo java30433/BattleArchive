@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: e8fb3f256cf9d9e439bd069f42a5a246
+labels:
+- warfx
+- particles
+- fire
+- weapon
+- mobile
+AssetOrigin:
+  serializedVersion: 1
+  productId: 5669
+  packageName: War FX
+  packageVersion: 1.8.04
+  assetPath: Assets/JMO Assets/WarFX/_Effects (Mobile)/Fire/WFXMR_FlameThrower Big
+    Alt.prefab
+  uploadId: 301034

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 7499aeb6567134b4dbfadc6051f4546d
+labels:
+- warfx
+- mobile
+- particles
+- bullet impact
+- bullet hole
+AssetOrigin:
+  serializedVersion: 1
+  productId: 5669
+  packageName: War FX
+  packageVersion: 1.8.04
+  assetPath: Assets/JMO Assets/WarFX/_Effects (Mobile)/Bullet Impacts/+ Bullet Hole/Lit/WFXMR_BImpact
+    Wood + Hole Lit.prefab
+  uploadId: 301034

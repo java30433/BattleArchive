@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0cb8c2d73332b6845b2eec02e21e91f2
+labels:
+- warfx
+- mobile
+- particles
+- fire
+AssetOrigin:
+  serializedVersion: 1
+  productId: 5669
+  packageName: War FX
+  packageVersion: 1.8.04
+  assetPath: Assets/JMO Assets/WarFX/_Effects (Mobile)/Fire/Gray Smoke/WFXMR_GazFireBig
+    (Gray Smoke).prefab
+  uploadId: 301034

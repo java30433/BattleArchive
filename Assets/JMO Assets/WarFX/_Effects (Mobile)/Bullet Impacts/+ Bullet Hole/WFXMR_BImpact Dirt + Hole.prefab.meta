@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 6dc033bcc9d82ea4fa59028b76c5b7c3
+labels:
+- warfx
+- mobile
+- particles
+- bullet impact
+- bullet hole
+AssetOrigin:
+  serializedVersion: 1
+  productId: 5669
+  packageName: War FX
+  packageVersion: 1.8.04
+  assetPath: Assets/JMO Assets/WarFX/_Effects (Mobile)/Bullet Impacts/+ Bullet Hole/WFXMR_BImpact
+    Dirt + Hole.prefab
+  uploadId: 301034

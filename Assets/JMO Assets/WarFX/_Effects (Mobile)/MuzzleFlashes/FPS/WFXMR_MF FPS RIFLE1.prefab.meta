@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 234e5aa95353f0643b0181dc3872cda9
+labels:
+- warfx
+- mobile
+- particles
+- weapon
+- muzzle flash
+AssetOrigin:
+  serializedVersion: 1
+  productId: 5669
+  packageName: War FX
+  packageVersion: 1.8.04
+  assetPath: Assets/JMO Assets/WarFX/_Effects (Mobile)/MuzzleFlashes/FPS/WFXMR_MF
+    FPS RIFLE1.prefab
+  uploadId: 301034

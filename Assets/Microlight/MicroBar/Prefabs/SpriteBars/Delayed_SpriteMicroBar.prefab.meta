@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 540634389fdc9ac458a0e683e84a448e
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 239154
+  packageName: MicroBar - Animated Health Bar Framework
+  packageVersion: 2.5.0
+  assetPath: Assets/Microlight/MicroBar/Prefabs/SpriteBars/Delayed_SpriteMicroBar.prefab
+  uploadId: 708876

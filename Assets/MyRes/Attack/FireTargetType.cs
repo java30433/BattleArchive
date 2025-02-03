@@ -1,0 +1,4 @@
+enum FireTargetType
+{
+    Map, Attackable
+}

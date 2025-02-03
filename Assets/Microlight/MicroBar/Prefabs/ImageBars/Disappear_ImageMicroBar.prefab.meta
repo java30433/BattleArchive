@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: f4aad344f06b94244a771d34e49169db
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 239154
+  packageName: MicroBar - Animated Health Bar Framework
+  packageVersion: 2.5.0
+  assetPath: Assets/Microlight/MicroBar/Prefabs/ImageBars/Disappear_ImageMicroBar.prefab
+  uploadId: 708876

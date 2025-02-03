@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 5317fde2cd7d75a4d8888fd00df21599
+labels:
+- warfx
+- mobile
+- particles
+- weapon
+- muzzle flash
+AssetOrigin:
+  serializedVersion: 1
+  productId: 5669
+  packageName: War FX
+  packageVersion: 1.8.04
+  assetPath: Assets/JMO Assets/WarFX/_Effects (Mobile)/MuzzleFlashes/4Planes/WFXMR_MF
+    4P RIFLE1.prefab
+  uploadId: 301034

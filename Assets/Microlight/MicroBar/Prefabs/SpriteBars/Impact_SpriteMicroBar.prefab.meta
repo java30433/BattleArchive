@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 1d8a135159311ef43a3fa3d12f1df650
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 239154
+  packageName: MicroBar - Animated Health Bar Framework
+  packageVersion: 2.5.0
+  assetPath: Assets/Microlight/MicroBar/Prefabs/SpriteBars/Impact_SpriteMicroBar.prefab
+  uploadId: 708876

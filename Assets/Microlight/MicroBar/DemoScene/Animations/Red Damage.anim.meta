@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 9053e4491410c544a9ea9f690ef67dc9
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 239154
+  packageName: MicroBar - Animated Health Bar Framework
+  packageVersion: 2.5.0
+  assetPath: Assets/Microlight/MicroBar/DemoScene/Animations/Red Damage.anim
+  uploadId: 708876

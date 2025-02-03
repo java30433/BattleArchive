@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 15e8f89070af2684aad3f27c56611515
+labels:
+- warfx
+- mobile
+- particles
+- fire
+AssetOrigin:
+  serializedVersion: 1
+  productId: 5669
+  packageName: War FX
+  packageVersion: 1.8.04
+  assetPath: Assets/JMO Assets/WarFX/_Effects (Mobile)/Fire/No Smoke/WFXMR_Fire SmallFlame
+    (No Smoke).prefab
+  uploadId: 301034

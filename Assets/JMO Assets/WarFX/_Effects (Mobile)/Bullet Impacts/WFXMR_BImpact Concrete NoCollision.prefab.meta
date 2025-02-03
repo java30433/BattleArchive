@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f04e15e9b0b32f24b9e87868e8bfbeea
+labels:
+- warfx
+- mobile
+- particles
+- bullet impact
+AssetOrigin:
+  serializedVersion: 1
+  productId: 5669
+  packageName: War FX
+  packageVersion: 1.8.04
+  assetPath: Assets/JMO Assets/WarFX/_Effects (Mobile)/Bullet Impacts/WFXMR_BImpact
+    Concrete NoCollision.prefab
+  uploadId: 301034

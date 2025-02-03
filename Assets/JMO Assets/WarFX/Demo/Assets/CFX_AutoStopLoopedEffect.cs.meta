@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d9c4e89389fa607479b0744ec6611490
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 5669
+  packageName: War FX
+  packageVersion: 1.8.04
+  assetPath: Assets/JMO Assets/WarFX/Demo/Assets/CFX_AutoStopLoopedEffect.cs
+  uploadId: 301034

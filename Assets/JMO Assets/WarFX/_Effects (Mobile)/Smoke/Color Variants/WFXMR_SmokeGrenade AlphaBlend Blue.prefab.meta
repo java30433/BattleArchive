@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: be20c243cd4e41e429097cc9d2582925
+labels:
+- warfx
+- mobile
+- particles
+- smoke
+AssetOrigin:
+  serializedVersion: 1
+  productId: 5669
+  packageName: War FX
+  packageVersion: 1.8.04
+  assetPath: Assets/JMO Assets/WarFX/_Effects (Mobile)/Smoke/Color Variants/WFXMR_SmokeGrenade
+    AlphaBlend Blue.prefab
+  uploadId: 301034

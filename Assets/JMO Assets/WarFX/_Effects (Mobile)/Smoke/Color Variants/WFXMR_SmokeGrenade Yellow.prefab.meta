@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b5a53f08c73a5384c8790c0c16fa56ab
+labels:
+- warfx
+- mobile
+- particles
+- smoke
+AssetOrigin:
+  serializedVersion: 1
+  productId: 5669
+  packageName: War FX
+  packageVersion: 1.8.04
+  assetPath: Assets/JMO Assets/WarFX/_Effects (Mobile)/Smoke/Color Variants/WFXMR_SmokeGrenade
+    Yellow.prefab
+  uploadId: 301034

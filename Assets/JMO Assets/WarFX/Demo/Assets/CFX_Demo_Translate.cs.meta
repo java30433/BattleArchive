@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1e42ac40a6fba2e4d94a0070ef45cea1
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 5669
+  packageName: War FX
+  packageVersion: 1.8.04
+  assetPath: Assets/JMO Assets/WarFX/Demo/Assets/CFX_Demo_Translate.cs
+  uploadId: 301034

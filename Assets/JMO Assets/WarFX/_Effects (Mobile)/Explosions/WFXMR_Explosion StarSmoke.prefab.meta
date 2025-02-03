@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 28ccd38a41e256a4e8fea96f5a8d039d
+labels:
+- warfx
+- mobile
+- particles
+- explosion
+AssetOrigin:
+  serializedVersion: 1
+  productId: 5669
+  packageName: War FX
+  packageVersion: 1.8.04
+  assetPath: Assets/JMO Assets/WarFX/_Effects (Mobile)/Explosions/WFXMR_Explosion
+    StarSmoke.prefab
+  uploadId: 301034

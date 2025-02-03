@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: be4482b49a1ebc347a145ac90065f26d
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 239154
+  packageName: MicroBar - Animated Health Bar Framework
+  packageVersion: 2.5.0
+  assetPath: Assets/Microlight/MicroBar/Prefabs/ImageBars/Shake_ImageMicroBar.prefab
+  uploadId: 708876

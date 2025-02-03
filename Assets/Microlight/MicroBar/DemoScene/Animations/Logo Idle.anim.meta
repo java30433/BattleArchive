@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 88eec9eba2913f646a93c7565de66042
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 239154
+  packageName: MicroBar - Animated Health Bar Framework
+  packageVersion: 2.5.0
+  assetPath: Assets/Microlight/MicroBar/DemoScene/Animations/Logo Idle.anim
+  uploadId: 708876

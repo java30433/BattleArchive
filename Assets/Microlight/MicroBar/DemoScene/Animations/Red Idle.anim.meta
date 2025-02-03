@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 91acf5c174b0c8f438d8e095a184e436
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 239154
+  packageName: MicroBar - Animated Health Bar Framework
+  packageVersion: 2.5.0
+  assetPath: Assets/Microlight/MicroBar/DemoScene/Animations/Red Idle.anim
+  uploadId: 708876

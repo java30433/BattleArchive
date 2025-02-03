@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: fc05826e48e28d54f84437e2f58e5db5
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 239154
+  packageName: MicroBar - Animated Health Bar Framework
+  packageVersion: 2.5.0
+  assetPath: Assets/Microlight/MicroBar/DemoScene/Animations/Red Anim Controller.controller
+  uploadId: 708876

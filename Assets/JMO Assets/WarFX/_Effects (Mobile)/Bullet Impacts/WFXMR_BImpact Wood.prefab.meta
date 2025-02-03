@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 855f647f81ad9774a905ff23fdc26618
+labels:
+- warfx
+- mobile
+- particles
+- bullet impact
+AssetOrigin:
+  serializedVersion: 1
+  productId: 5669
+  packageName: War FX
+  packageVersion: 1.8.04
+  assetPath: Assets/JMO Assets/WarFX/_Effects (Mobile)/Bullet Impacts/WFXMR_BImpact
+    Wood.prefab
+  uploadId: 301034

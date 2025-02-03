@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 80eac59b35bdba64b94f402aa5321509
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 239154
+  packageName: MicroBar - Animated Health Bar Framework
+  packageVersion: 2.5.0
+  assetPath: Assets/Microlight/MicroBar/Prefabs/ImageBars/Punch_ImageMicroBar.prefab
+  uploadId: 708876
